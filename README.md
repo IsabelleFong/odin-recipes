@@ -1,6 +1,6 @@
 # Odin - Recipe Website
 
-## A simple static webpage that displays recipes of various dishes
+## A simple static website that displays recipes of various dishes
 
 This project is a part of The Odin Project Foundations Course (HTML Foundations) to practice all of the HTML knowledge I have acquired. This project shows how to do the following:
  
